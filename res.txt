@@ -1,0 +1,19 @@
+PHPUnit 5.0.9 by Sebastian Bergmann and contributors.
+
+.                                                                  1 / 1 (100%)
+
+Time: 234 ms, Memory: 17.75Mb
+
+OK (1 test, 7 assertions)
+
+
+[1;37;40mCode Coverage Report:     [0m
+[1;37;40m  2015-12-15 15:40:55     [0m
+[1;37;40m                          [0m
+[1;37;40m Summary:                 [0m
+[30;42m  Classes: 100.00% (1/1)  [0m
+[30;42m  Methods: 100.00% (1/1)  [0m
+[30;42m  Lines:   100.00% (38/38)[0m
+
+msgBoundaryTest
+  [30;42mMethods: 100.00% ( 1/ 1)[0m   [30;42mLines: 100.00% ( 28/ 28)[0m
